@@ -1,2 +1,2 @@
 Creo que no estoy muy bien
-Edición del primer archivo en developer
+Elimine la linea editada y agregue una nueva linea en su lugar
